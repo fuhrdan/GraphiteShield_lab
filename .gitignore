@@ -1,0 +1,5 @@
+build/
+*.class
+*.log
+graphiteshield-telemetry.csv
+graphiteshield-report.html
