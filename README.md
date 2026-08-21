@@ -6,7 +6,8 @@
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)](#requirements)
 [![Safety](https://img.shields.io/badge/safety-synthetic%20%26%20local--only-2ea44f)](#safety-model)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
+[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/fuhrdan/GraphiteShield_lab/releases/tag/v1.0.0)
+[![GraphiteShield CI](https://github.com/fuhrdan/GraphiteShield_lab/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/fuhrdan/GraphiteShield_lab/actions/workflows/ci.yml)
 **Synthetic telemetry · Detection rules · Finding triage · Risk scoring · CSV export · HTML investigation reports**
 
 ---
