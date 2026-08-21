@@ -37,8 +37,6 @@ It is intentionally **not** a spyware tool, exploitation framework, device-manag
 
 ## Screenshot
 
-> Add your screenshot as `docs/images/graphiteshield-lab.png` using the instructions in [Adding the Screenshot](#adding-the-screenshot).
-
 <p align="center">
   <img src="docs/images/graphiteshield-lab.png" alt="GraphiteShield Lab mobile threat detection research workbench" width="1000">
 </p>
